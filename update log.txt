@@ -1,0 +1,71 @@
+V0.5 (products, exclusive products)...arman
+
+-> added all products page
+-> added exclusive products page
+-> merged Mustavi's login.html which can be accessed from
+	index's acc_icon->Profile
+
+-> added #navbarDropdown img{    
+    background-color: #232323;
+}
+
+	in style.css because icon disappears on small screen
+	because background is white
+
+-> added margin bottom-2 on cards on products page. 
+-> Products page: filter navigation is now dropend, which means lists open right 
+	rather than down.
+---------------------------------------------------------------------------------------------------------
+
+**********************************************************************************************************
+V0.6 (about-us)...arman
+changes in
+	-style.css
+	-about.html
+	-new image resources in images/about-us
+
+->added about-us page
+->header is now sticky-top
+->footer has socials now, all are clickable and has real destinations
+-> On the right side of socials, added credts button which will goto teamPage
+
+Note: footer only changed on about-us page. This is like suggestion. If this footer
+is acceptable then will replace all other footers with this.
+---------------------------------------------------------------------------------------------------------
+
+**********************************************************************************************************
+V0.6.1(added mustavi's css, and contact-us page, team-page)
+changes in
+	-style.css
+	-teamPage.html (new file)
+	-contact-us (embedded the real location)
+V0.6.2
+changes in conact us(final)
+	style.css(contact us)
+
+
+V0.7 -- sorry Mustavi merger kori nai.... too tired
+
+
+V0.8
+	-created Product-preview.html
+	-created user-profile.html
+	-new css file userProfile.css
+
+	-added a new folder images/product-preview 
+
+	note: no change in existing css file
+	//with this frontend is done...right?
+
+casual shirt 2: https://yellowclothing.net/collections/mens-casual-shirt/products/m-c-shirt-82?variant=39542034202821
+3- https://yellowclothing.net/collections/mens-casual-shirt/products/m-c-shirt-122
+4- https://yellowclothing.net/collections/mens-casual-shirt/products/m-c-shirt-107?variant=39709812818117 persian blue/mulberry
+5- https://yellowclothing.net/collections/mens-casual-shirt/products/m-c-shirt-113?variant=39724833374405 black
+6- https://yellowclothing.net/collections/mens-casual-shirt/products/m-c-shirt-90?variant=39547761426629 electric blue stripe
+
+prd 1 - https://catseye.com.bd/catalog/product/view/id/3757/s/striped-polo/category/4/
+2- https://catseye.com.bd/catalog/product/view/id/3756/s/basic-polo/category/4/
+3- https://catseye.com.bd/catalog/product/view/id/3755/s/solid-colour-casual-pants/category/4/
+4- https://catseye.com.bd/catalog/product/view/id/3754/s/solid-colour-casual-pants/category/4/
+5- https://catseye.com.bd/check-casual-pants.html
+6- https://catseye.com.bd/light-grey-formal-shirt.html
